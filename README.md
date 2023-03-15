@@ -856,8 +856,6 @@ span{
         transform: translateY(0px);
         
     }
-
-
 }
 .choose_wrapper .banner-subtitlechoose{
     font-size: 25px;
