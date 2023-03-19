@@ -1,0 +1,50 @@
+body{
+    height: 100%;
+    width: 99%;
+    
+}
+.navbar{
+    background-color: #fff !important;
+    padding: 0 !important;
+    display: flex;
+ 
+   
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand{
+    padding-left: 30px;
+    color: #000000 !important;
+    font-weight: 700;
+}
+.navbar-nav li{
+       padding: 10px 15px;
+      text-align: center;
+      font-weight: 700;
+}
+.navbar-nav li :hover{
+    color: #197074 !important;
+}
+.navbar-nav li a{
+    color:  #000000  !important;
+    font-weight: 700;
+}
+.la{
+    width: 60%;
+    height: 50%;
+    text-align: center;
+}
+
+    
+.form{
+    width: 50%;
+    height: 50%;
+    
+}
+.banner{
+    height: 100%;
+    width: 99%;
+    padding: 250px 0 200px;
+    width: 190%;
+    position: relative;
+}
+
